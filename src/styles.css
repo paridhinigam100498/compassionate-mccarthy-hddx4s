@@ -1,0 +1,13 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.heading {
+  display: flex;
+}
+.tab-head {
+  padding: 3px;
+  margin: 3px;
+  border: 1px solid black;
+}
