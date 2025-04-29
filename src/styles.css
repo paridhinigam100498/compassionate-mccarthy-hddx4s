@@ -8,6 +8,13 @@
 }
 .tab-head {
   padding: 3px;
-  margin: 3px;
+
   border: 1px solid black;
+}
+.tab-body {
+  height: 200px;
+  width: 200px;
+  display: flex;
+  border: 1px solid black;
+  cursor: pointer;
 }
